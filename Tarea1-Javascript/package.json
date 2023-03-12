@@ -1,0 +1,15 @@
+{
+  "name": "tarea1-javascript",
+  "version": "1.0.0",
+  "description": "Esta es mi primer tarea con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tarea1-javascript.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea"
+  ],
+  "author": "Valentina Alzate",
+  "license": "ISC"
+}
